@@ -1,0 +1,23 @@
+a:link
+		{
+			colot: violet;
+			background-color: transparent;
+			text-decoration: none;
+		}
+		a:visited 
+		{
+			color: skyblue;
+			background-color: transparent;
+		}
+		a:hover
+		{
+			color: darkolivegreen;
+			background-color: paleturquoise;
+			text-decoration: none;
+		}
+		a:active
+		{
+			color: rosybrown;
+			background-color: whitesmoke;
+			text-decoration: none;
+		}

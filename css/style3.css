@@ -1,0 +1,29 @@
+        body
+		{
+			text-align: center;
+			background-image: url("Gallery/beach.jpg");
+			
+		}
+		h1
+		{
+			background-color: darkblue;
+			font-family: cursive;
+			color: floralwhite; 
+		}
+		table, tr, th, td
+		{
+			border: 2px solid skyblue;
+			border-collapse: collapse;
+		}
+		tr, td, th
+		{
+			padding: 5px;
+		}
+		table,td
+		{
+			text-align: center;
+		}
+		th 
+		{
+			background-color: deepskyblue;
+		}

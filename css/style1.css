@@ -1,0 +1,36 @@
+ @keyframes typing
+         {
+         	from {width: 0;}
+         	to {width: 100%;}
+         }
+
+         #text-container
+         {
+         	overflow: hidden;
+         	white-space: nowrap;
+         	animation: typing 5s steps(40) infinite alternate;
+         }
+         
+
+		
+		
+		h1
+		{
+			color: floralwhite;
+			font-size: 50px;
+			border: 1px solid;
+			text-align: center;
+			padding: 10px;
+		}
+		p
+		{
+			text-align: center;
+			color: antiquewhite;
+			font-size: 30px;
+		}
+		audio
+		{
+			position: fixed;
+			bottom: 0;
+			width: 20%;
+		}
